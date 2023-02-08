@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="eacbae8e-224b-4290-9c84-01ab26c5571c" name="tokyo">
+        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="stage.tokyo-bar.ru" port="5353" sshConfigId="c3c80adb-854b-44d6-bbd0-4c28337974e2" sshConfig="bitrix@stage.tokyo-bar.ru:5353 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
